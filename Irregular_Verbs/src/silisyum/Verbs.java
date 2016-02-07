@@ -1,5 +1,6 @@
 package silisyum;
 
+//The data in this class should be in a database
 public class Verbs {
 	int how_many_verbs_are_there = 134;
 	String list[][] = new String[how_many_verbs_are_there][4];
